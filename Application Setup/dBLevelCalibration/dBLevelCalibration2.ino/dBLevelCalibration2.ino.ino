@@ -5,8 +5,8 @@
 #define THINGSBOARD_SERVER  "demo.thingsboard.io"   //change this accordingly
 #define NB_APN     "ais.iot"
 
-#define interceptConst   -59344.0386
-#define dbConst   2934.170122
+#define interceptConst   -23145.82582
+#define dbConst   1154.514113
 
 // initialize the library instances
 NBClient client(false); // use true for debug mode, use false to connect to the server
